@@ -1,0 +1,63 @@
+{
+  "uid" : "bdc6bc0f3c602317",
+  "name" : "test_login1",
+  "fullName" : "script.test_login.TestLogin#test_login1",
+  "historyId" : "42204830a8a2867ccb4c2521a141a2f0",
+  "time" : {
+    "start" : 1601950147122,
+    "stop" : 1601950147122,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "script"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "SKY-20171211NJY"
+  }, {
+    "name" : "thread",
+    "value" : "6424-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "script.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "85063e634579a0ba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601886819377,
+        "stop" : 1601886819377,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bdc6bc0f3c602317.json",
+  "parameterValues" : [ ]
+}

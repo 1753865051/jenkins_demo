@@ -1,0 +1,4 @@
+"Status","Name","Duration in ms","Description"
+"failed","script.test_login.TestLogin#test_login3","0",""
+"failed","script.test_login.TestLogin#test_login2","0",""
+"passed","script.test_login.TestLogin#test_login1","0",""
